@@ -1,0 +1,1 @@
+include ':app', ':01aidldemo', ':02aidldemo2', ':03ipccontentproviderdemo', ':03contentproviderdemo', ':04ipcsocketdemo', ':05ipcbinderdemo', ':06threaddemo', ':07realmdemo'

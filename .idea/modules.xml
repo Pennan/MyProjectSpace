@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01aidldemo/01aidldemo.iml" filepath="$PROJECT_DIR$/01aidldemo/01aidldemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02aidldemo2/02aidldemo2.iml" filepath="$PROJECT_DIR$/02aidldemo2/02aidldemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03contentproviderdemo/03contentproviderdemo.iml" filepath="$PROJECT_DIR$/03contentproviderdemo/03contentproviderdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03ipccontentproviderdemo/03ipccontentproviderdemo.iml" filepath="$PROJECT_DIR$/03ipccontentproviderdemo/03ipccontentproviderdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04ipcsocketdemo/04ipcsocketdemo.iml" filepath="$PROJECT_DIR$/04ipcsocketdemo/04ipcsocketdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05ipcbinderdemo/05ipcbinderdemo.iml" filepath="$PROJECT_DIR$/05ipcbinderdemo/05ipcbinderdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06threaddemo/06threaddemo.iml" filepath="$PROJECT_DIR$/06threaddemo/06threaddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07realmdemo/07realmdemo.iml" filepath="$PROJECT_DIR$/07realmdemo/07realmdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyProjectSpace.iml" filepath="$PROJECT_DIR$/MyProjectSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+    </modules>
+  </component>
+</project>

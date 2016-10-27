@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+          package="com.np.aidldemo2">
+
+    <uses-permission android:name="com.np.aidldemo2.permission.ACCESS_BOOK_SERVICE" />
+
+    <permission
+        android:name="com.np.aidldemo2.permission.ACCESS_BOOK_SERVICE"
+        android:description="@string/des"
+        android:label="label"
+        android:permissionGroup="com.np.aidldemo2.group.BOOK"
+        android:protectionLevel="normal"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <!--<intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>-->
+        </activity>
+        <activity android:name=".AIDLActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name=".AIDLService"
+            android:enabled="true"
+            android:exported="true"
+            android:process=":remote">
+        </service>
+    </application>
+
+</manifest>

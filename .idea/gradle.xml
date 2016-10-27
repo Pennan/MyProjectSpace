@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01aidldemo" />
+            <option value="$PROJECT_DIR$/02aidldemo2" />
+            <option value="$PROJECT_DIR$/03contentproviderdemo" />
+            <option value="$PROJECT_DIR$/03ipccontentproviderdemo" />
+            <option value="$PROJECT_DIR$/04ipcsocketdemo" />
+            <option value="$PROJECT_DIR$/05ipcbinderdemo" />
+            <option value="$PROJECT_DIR$/06threaddemo" />
+            <option value="$PROJECT_DIR$/07realmdemo" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/01aidldemo" />
+            <option value="$PROJECT_DIR$/02aidldemo2" />
+            <option value="$PROJECT_DIR$/03contentproviderdemo" />
+            <option value="$PROJECT_DIR$/03ipccontentproviderdemo" />
+            <option value="$PROJECT_DIR$/04ipcsocketdemo" />
+            <option value="$PROJECT_DIR$/05ipcbinderdemo" />
+            <option value="$PROJECT_DIR$/06threaddemo" />
+            <option value="$PROJECT_DIR$/07realmdemo" />
+            <option value="$PROJECT_DIR$/app" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
