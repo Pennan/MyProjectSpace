@@ -29,7 +29,7 @@
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="通过条件查询"
+        android:text="通过条件查询 "
         android:id="@+id/button_query_single"
         android:layout_below="@+id/button_query_all"
         android:layout_centerHorizontal="true"/>
